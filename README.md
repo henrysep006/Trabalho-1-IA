@@ -8,10 +8,10 @@ Este projeto acadêmico utiliza a investigação técnica para provar que a falh
 ## Bases de Dados (Dicionários e Referências)
 Para compreender a fundo a natureza das classes, categorias e o dicionário de variáveis de cada base, seguem os links das fontes originais utilizadas neste estudo:
 
-1. **Dataset 1 - Desempenho e Notas de Alunos:** [Inserir Link do Kaggle/UCI aqui]
+1. **Dataset 1 - Desempenho e Notas de Alunos:** [https://archive.ics.uci.edu/dataset/856/higher+education+students+performance+evaluation]
    * *Característica:* 116 instâncias, 30 atributos numéricos/categóricos e 8 classes alvo (notas). 
    * *Papel no projeto:* Utilizado como ambiente de estresse para demonstrar o colapso dos algoritmos frente ao ruído estatístico e à escassez de dados.
-2. **Dataset 2 - Evasão e Sucesso Acadêmico:** [Inserir Link do UCI Predict Students' Dropout and Academic Success aqui]
+2. **Dataset 2 - Evasão e Sucesso Acadêmico:** [https://archive.ics.uci.edu/dataset/697/predict+students+dropout+and+academic+success]
    * *Característica:* 4.424 instâncias e 3 classes alvo (Dropout, Enrolled, Graduate).
    * *Papel no projeto:* Utilizado como contraponto para validar a estabilização matemática gerada pelo volume amostral.
 

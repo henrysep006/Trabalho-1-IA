@@ -57,3 +57,7 @@ Este projeto foi desenvolvido utilizando o ecossistema de Data Science do Python
   * *Modelos:* `MLPClassifier`, `DecisionTreeClassifier`, `RandomForestClassifier`.
   * *Métricas:* `accuracy_score`, `classification_report`, `confusion_matrix`.
 * **Visualização de Dados:** `matplotlib` (plotagem e análise gráfica das matrizes de confusão).
+
+## Intruções para execução do código
+
+Para executar os algoritmos e reproduzir os experimentos do projeto, o procedimento inicia-se com a clonagem do repositório oficial do GitHub para a máquina local utilizando o comando git clone. Logo após, é fundamental criar e ativar um ambiente virtual em Python para o isolamento das dependências, procedendo em seguida com a instalação dos pacotes necessários listados no arquivo de requisitos, tais como numpy, pandas, scikit-learn e matplotlib. Com o ambiente configurado e os conjuntos de dados devidamente posicionados no diretório de trabalho, a execução dos códigos pode ser realizada de forma interativa por meio do Jupyter Notebook para a inspeção detalhada das etapas ou via execução direta dos scripts em Python em sua devida ordem lógica, abrangendo desde o pré-processamento inicial e o treinamento dos modelos de redes neurais e árvores até a validação com a implementação do Naive-Bayes.
